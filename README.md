@@ -32,14 +32,6 @@ Example: [https://yourusername.github.io/portfolio](https://yourusername.github.
 
 ---
 
-## 📸 Preview
-
-| Light Mode | Dark Mode |
-|:--:|:--:|
-| ![Light](screenshots/light.png) | ![Dark](screenshots/dark.png) |
-
----
-
 ## 🛠 Built With
 
 - HTML5
