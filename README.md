@@ -13,13 +13,6 @@ This is my personal portfolio website built with HTML, CSS, and JavaScript. It s
 
 ---
 
-## 🚀 Live Demo
-
-> Coming soon — GitHub Pages or Netlify  
-Example: [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
-
----
-
 ## 🔥 Features
 
 - 🎨 Modern responsive UI
@@ -44,6 +37,6 @@ Example: [https://yourusername.github.io/portfolio](https://yourusername.github.
 ## 🧩 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/ItsBurakVatan/portfolio-website.git
 cd portfolio-website
 open index.html
